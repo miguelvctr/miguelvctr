@@ -8,7 +8,7 @@ Estudante de Desenvolvimento de Sistemas na Etec de Santa Isabel - SP.
 
 Interessado em desenvolvimento web, programação, infraestrutura e soluções tecnológicas.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/miguelv-hub)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/miguelvctr)
 
 </div>
 
